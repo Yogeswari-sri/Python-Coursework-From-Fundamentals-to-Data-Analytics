@@ -1,24 +1,48 @@
-# Customer-Support-Ticket-Analyzer
-Python‑based Customer Support Ticket Analyzer that stores, cleans, and analyzes service tickets to extract insights on customer sentiment, support quality, and issue trends. Includes text cleaning (punctuation removal, lowercasing, slang replacement), keyword analysis (poor, good, slow, excellent), and summary statistics .
-Description:  
-Python‑based Customer Support Ticket Analyzer that stores, cleans, and analyzes service tickets to extract insights on customer sentiment, support quality, and issue trends. Includes text cleaning (punctuation removal, lowercasing, slang replacement), keyword analysis (poor, good, slow, excellent), and summary statistics (priority distribution, longest issue, unique words).
+Python Programming Assignments
+Module‑End Projects and Practice Notebooks
 
-Why This Works
-Concise (2–3 sentences) → recruiters and peers can grasp the project quickly.
+📘 Overview
+This repository contains my Python coursework and module‑end projects completed as part of my Data Analytics learning path. Each notebook demonstrates practical coding skills — from basic data structures to advanced data analysis using NumPy, Pandas, and real‑world datasets.
 
-Highlights skills → Python basics, text processing, functions, loops, and data analysis.
+| File Name | Description |
+| --- | --- |
+| **Python Assignment 1 – Strings & Tuples.ipynb** | Covers string manipulation, slicing, and tuple operations. |
+| **Python Assignment 2 – Data Structures.ipynb** | Focuses on lists, dictionaries, sets, and comprehensions. |
+| **Python Assignment 3 – Loops & Functions.ipynb** | Demonstrates control flow using ``for``, ``while``, and custom functions. |
+| **Python DA Assignment 1 – NumPy & Pandas.ipynb** | Introduces data analysis using arrays and DataFrames. |
+| **Python Module‑End Assignment – Customer Support Ticket Analyzer.ipynb** | Final project applying data analytics to real‑world customer‑support data. |
 
-Industry relevance → connects directly to real‑world customer support analytics.
+🧠 Skills Demonstrated
+Python fundamentals (variables, loops, functions)
 
-Keywords included → “Python”, “Ticket Analyzer”, “Sentiment”, “Data Cleaning”, “Analysis” for search visibility.
+Data structures and algorithms
 
+Data analysis with NumPy and Pandas
 
-This project implements a Python-based Customer Support Ticket Analyzer.  
-It demonstrates:
-- Data loading & organization using dictionaries and lists  
-- Text cleaning (punctuation removal, spacing normalization, lowercasing, slang replacement)  
-- Keyword-based issue insights (poor, good, slow, excellent)  
-- Priority analysis and summary statistics  
-- Extraction of unique words across all tickets  
+Exploratory data analysis (EDA)
 
-Deliverables include a Jupyter/Colab notebook with clear outputs and a one-page summary of findings.
+Real‑world dataset cleaning and visualization
+
+🧩 Module‑End Project Highlight
+Customer Support Ticket Analyzer
+
+Built a Python‑based analytics tool to study support ticket trends.
+
+Used Pandas for data cleaning and aggregation.
+
+Generated insights on ticket categories, resolution times, and agent performance.
+
+Demonstrated end‑to‑end workflow from raw data to ac
+
+⚙️ Tech Stack
+🐍 Python 3
+
+📓 Jupyter Notebook
+
+📊 NumPy | Pandas | Matplotlib
+
+💾 CSV datasets
+
+🏁 Outcome
+
+These assignments collectively demonstrate my growth from foundational Python programming to applied data analytics, preparing me for real‑world projects and advanced modules.
