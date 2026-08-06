@@ -32,7 +32,55 @@ Used Pandas for data cleaning and aggregation.
 
 Generated insights on ticket categories, resolution times, and agent performance.
 
-Demonstrated end‑to‑end workflow from raw data to ac
+📘 Python Assignments Repository – Yogeswari-sri
+Repository Overview
+This repository contains a collection of Python assignments created using Google Colab. The assignments cover fundamental programming concepts, data analysis, and applied case studies.
+
+📂 Files Included
+1. Python_Assignment_1_Data_Structures_Strings
+Created using: Google Colab
+
+Focus:
+
+String operations
+
+Basic data structures (lists, tuples, dictionaries)
+
+Hands-on exercises for beginners
+
+2. Python_Assignment_3_While_Loop_For_Loop
+Created using: Google Colab
+
+Focus:
+
+Iteration using while and for loops
+
+Nested loops and control flow
+
+Practical coding tasks
+
+3. Python_DA_Assignment_1_Data_Analysis_using_...
+Created using: Google Colab
+
+Focus:
+
+Introduction to data analysis with Python
+
+Using libraries like pandas and numpy
+
+Basic data cleaning and exploration
+
+4. Python_Module_End_Assignment_Customer_Su...
+Created using: Google Colab
+
+Focus:
+
+Case study on customer support
+
+Applying Python for real-world problem solving
+
+End-of-module evaluation assignment
+
 
 ⚙️ Tech Stack
 🐍 Python 3
