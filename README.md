@@ -1,8 +1,12 @@
 Python Programming Assignments
-Module‑End Projects and Practice Notebooks
+Module‑End Projects and Practice Notebooks.
+
+-------------------
 
 📘 Overview
 This repository contains my Python coursework and module‑end projects completed as part of my Data Analytics learning path. Each notebook demonstrates practical coding skills — from basic data structures to advanced data analysis using NumPy, Pandas, and real‑world datasets.
+
+-----------------------
 
 | File Name | Description |
 | --- | --- |
@@ -11,6 +15,8 @@ This repository contains my Python coursework and module‑end projects complete
 | **Python Assignment 3 – Loops & Functions.ipynb** | Demonstrates control flow using ``for``, ``while``, and custom functions. |
 | **Python DA Assignment 1 – NumPy & Pandas.ipynb** | Introduces data analysis using arrays and DataFrames. |
 | **Python Module‑End Assignment – Customer Support Ticket Analyzer.ipynb** | Final project applying data analytics to real‑world customer‑support data. |
+
+---------------------
 
 🧠 Skills Demonstrated
 Python fundamentals (variables, loops, functions)
@@ -23,6 +29,8 @@ Exploratory data analysis (EDA)
 
 Real‑world dataset cleaning and visualization
 
+----------------------
+
 🧩 Module‑End Project Highlight
 Customer Support Ticket Analyzer
 
@@ -32,9 +40,13 @@ Used Pandas for data cleaning and aggregation.
 
 Generated insights on ticket categories, resolution times, and agent performance.
 
+----------------------------
+
 📘 Python Assignments Repository – Yogeswari-sri
 Repository Overview
 This repository contains a collection of Python assignments created using Google Colab. The assignments cover fundamental programming concepts, data analysis, and applied case studies.
+
+-------------------------
 
 📂 Files Included
 1. Python_Assignment_1_Data_Structures_Strings
